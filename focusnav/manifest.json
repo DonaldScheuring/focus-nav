@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Gaze Tracker Extension",
     "version": "1.0",
-    "description": "An extension that uses OpenCV.js and TensorFlow.js to track a user's gaze on the screen.",
+    "description": "An extension that uses OpenCV.js and TensorFlow.js to navigate Chrome.",
     "permissions": [
       "activeTab",
       "tabs",

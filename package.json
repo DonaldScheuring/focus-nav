@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.2.0",
+    "opencv.js": "^1.2.1"
+  }
+}

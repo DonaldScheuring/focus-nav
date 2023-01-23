@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gaze Tracker Extension</title>
+  </head>
+  <body>
+    <div id="video-container">
+      <video id="webcam"></video>
+    </div>
+    <script src="popup.js"></script>
+    <script async src="https://docs.opencv.org/master/opencv.js" onload="onOpenCvReady();" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+  </body>
+</html>
